@@ -10,7 +10,7 @@ import { DebounceInput } from 'react-debounce-input';
 
 //   const handleChange = (event) => {
 //     const { value } = event.target;
-//     setGif(value);
+//     setQuery([value]);
 //   };
 
 //   return (
